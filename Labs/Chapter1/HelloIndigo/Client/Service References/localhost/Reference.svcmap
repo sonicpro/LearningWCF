@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bce78469-5bff-4c3a-96fe-9c80ac41366e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/HelloIndigo" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="all_p1.html.wsdl" MetadataType="Wsdl" ID="beaf139a-5bc8-4848-abd7-6fd8464b14aa" SourceId="1" SourceUrl="http://localhost:8000/HelloIndigo" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="50cc102d-0a8b-49fd-8f67-38fc700b2537" SourceId="1" SourceUrl="http://localhost:8000/HelloIndigo" />
+    <MetadataFile FileName="all_p1.html.xsd" MetadataType="Schema" ID="7862afad-0e49-4cbe-9f5f-1dead23cecb5" SourceId="1" SourceUrl="http://localhost:8000/HelloIndigo" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="6fc92704-e3e6-4c75-8383-69d2004f0ae1" SourceId="1" SourceUrl="http://localhost:8000/HelloIndigo" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

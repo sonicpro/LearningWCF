@@ -1,0 +1,5 @@
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\ServiceFromScratch\Client\bin\Debug\Client.exe
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\ServiceFromScratch\Client\bin\Debug\Client.pdb
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\ServiceFromScratch\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\ServiceFromScratch\Client\obj\Debug\Client.exe
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\ServiceFromScratch\Client\obj\Debug\Client.pdb

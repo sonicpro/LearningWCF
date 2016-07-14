@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="DB2E0A9B-76D3-4053-99BF-5009658352DF" ModuleId="Host" />
+  <Module PersistentId="98E98C79-EF91-4CD2-B7DC-6017BE611545" ModuleId="Client" />
+  <Module PersistentId="7EFE105B-4606-41A7-82DF-1A074E552AF8" ModuleId="HelloIndigo" />
+</Modules>

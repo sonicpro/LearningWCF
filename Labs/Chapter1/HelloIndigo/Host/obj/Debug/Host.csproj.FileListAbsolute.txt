@@ -1,0 +1,8 @@
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\bin\Debug\Host.exe.config
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\bin\Debug\Host.exe
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\bin\Debug\Host.pdb
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\obj\Debug\ResolveAssemblyReference.cache
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\obj\Debug\Host.exe
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\obj\Debug\Host.pdb
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\bin\Debug\HelloIndigo.dll
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\HelloIndigo\Host\bin\Debug\HelloIndigo.pdb

@@ -1,0 +1,83 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="2" />
+      <Item value="ServiceModel" priority="2" />
+      <Item value="ServiceContract" priority="0" />
+      <Item value="Namespace" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="IHelloIndigoService`0" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="ServiceHost`0" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="ServiceHost" priority="0" />
+      <Item value="typeof" priority="1" />
+      <Item value="HelloIndigo" priority="1" />
+      <Item value="HelloIndigoService`0" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="host" priority="1" />
+      <Item value="BasicHttpBinding`0" priority="1" />
+      <Item value="Console`0" priority="4" />
+      <Item value="EndpointAddress`0" priority="0" />
+      <Item value="EndpointAddress" priority="0" />
+      <Item value="ChannelFactory`0" priority="0" />
+      <Item value="proxy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.ServiceHost">
+      <Item value="AddServiceEndpoint`0" priority="0" />
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.ChannelFactory`1">
+      <Item value="CreateChannel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Client.ServiceProxy+IHelloIndigoService">
+      <Item value="HelloIndigo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6F7AB3CD-F09B-4D4B-914F-2BC4BCAA8CB5/f:Service.cs" caret="290" fromTop="13" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:ServiceProxy.cs" caret="240" fromTop="10" />
+      <File id="B4178D51-64E9-4687-9ED3-D774A2AB7568/f:Program.cs" caret="390" fromTop="13" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:Program.cs" caret="521" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6F7AB3CD-F09B-4D4B-914F-2BC4BCAA8CB5/f:Service.cs" caret="268" fromTop="9" />
+      <File id="6F7AB3CD-F09B-4D4B-914F-2BC4BCAA8CB5/f:Service.cs" caret="41" fromTop="1" />
+      <File id="6F7AB3CD-F09B-4D4B-914F-2BC4BCAA8CB5/f:Service.cs" caret="395" fromTop="17" />
+      <File id="B4178D51-64E9-4687-9ED3-D774A2AB7568/f:Program.cs" caret="529" fromTop="18" />
+      <File id="B4178D51-64E9-4687-9ED3-D774A2AB7568/f:Program.cs" caret="41" fromTop="1" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:ServiceProxy.cs" caret="298" fromTop="14" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:ServiceProxy.cs" caret="41" fromTop="1" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:ServiceProxy.cs" caret="240" fromTop="10" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:Program.cs" caret="41" fromTop="1" />
+      <File id="5AB217DF-4A09-4468-8B8B-9313405F088C/f:Program.cs" caret="521" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,73 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Namespace" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="ServiceModel" priority="0" />
+      <Item value="ServiceHost`0" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="ServiceHost" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="IHelloIndigoService`0" priority="0" />
+      <Item value="host" priority="0" />
+      <Item value="Console`0" priority="2" />
+      <Item value="localhost" priority="1" />
+      <Item value="HelloIndigoServiceClient`0" priority="1" />
+      <Item value="HelloIndigoServiceClient" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="proxy" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.ServiceHost">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Client.localhost.HelloIndigoServiceClient">
+      <Item value="HelloIndigo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="98E98C79-EF91-4CD2-B7DC-6017BE611545/d:Service References/d:localhost/f:Reference.cs" caret="423" fromTop="3" />
+      <File id="98E98C79-EF91-4CD2-B7DC-6017BE611545/f:Program.cs" caret="315" fromTop="12" />
+      <File id="98E98C79-EF91-4CD2-B7DC-6017BE611545/f:app.config" caret="0" fromTop="0" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:IHelloIndigoService.cs" caret="494" fromTop="16" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:App.config" caret="600" fromTop="13" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:Program.cs" caret="357" fromTop="15" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:HelloIndigoService.cs" caret="358" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="98E98C79-EF91-4CD2-B7DC-6017BE611545/f:Program.cs" caret="561" fromTop="19" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:IHelloIndigoService.cs" caret="0" fromTop="0" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:IHelloIndigoService.cs" caret="393" fromTop="10" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:IHelloIndigoService.cs" caret="494" fromTop="16" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:HelloIndigoService.cs" caret="432" fromTop="16" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:Program.cs" caret="0" fromTop="0" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:Program.cs" caret="412" fromTop="16" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:Program.cs" caret="238" fromTop="6" />
+      <File id="DB2E0A9B-76D3-4053-99BF-5009658352DF/f:App.config" caret="600" fromTop="13" />
+      <File id="7EFE105B-4606-41A7-82DF-1A074E552AF8/f:HelloIndigoService.cs" caret="358" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

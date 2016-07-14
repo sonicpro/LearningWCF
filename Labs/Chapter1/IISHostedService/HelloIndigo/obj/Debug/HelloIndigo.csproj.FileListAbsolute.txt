@@ -1,0 +1,5 @@
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\IISHostedService\HelloIndigo\bin\Debug\HelloIndigo.dll
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\IISHostedService\HelloIndigo\bin\Debug\HelloIndigo.pdb
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\IISHostedService\HelloIndigo\obj\Debug\ResolveAssemblyReference.cache
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\IISHostedService\HelloIndigo\obj\Debug\HelloIndigo.dll
+D:\MOE\SourcesCS\Learning WCF\Labs\Chapter1\IISHostedService\HelloIndigo\obj\Debug\HelloIndigo.pdb
